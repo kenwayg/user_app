@@ -1,0 +1,23 @@
+.searcher {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  flex: 80;
+
+  h1 {
+    text-align: center;
+  }
+  input {
+    padding: 10px 20px;
+    width: 600px;
+    border-radius: 15px;
+  }
+}
+.search_sign {
+  position: absolute;
+  right: 225px;
+  margin: 5px;
+  cursor: pointer;
+  color: rgb(5, 115, 231);
+}

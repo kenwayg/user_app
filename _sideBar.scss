@@ -1,0 +1,29 @@
+.sideNav {
+  width: 20%;
+  flex: 25;
+  background-color: rgb(253, 254, 255);
+}
+.userN {
+  background-color: rgb(5, 115, 231);
+  min-height: 20vh;
+  padding: 15px;
+  span {
+    display: block;
+  }
+  .profile_pic {
+    background-color: black;
+    border-radius: 50%;
+    height: 8vh;
+    width: 25%;
+    margin: 5px;
+    padding: 10px;
+  }
+}
+.side_links {
+  li {
+    padding: 10px;
+  }
+  .bIn {
+    border-bottom: 1px solid rgb(228, 228, 228);
+  }
+}
